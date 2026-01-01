@@ -16,7 +16,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 ---
 ## 📖 Project Overview
 
-<img src="https://github.com/harithadamm/asset-project/blob/main/dataOverview.png " width="400" />
+<img src="https://github.com/harithadamm/asset-project/blob/main/dataOverview.png " width="800" />
 
 This project involves:
 
