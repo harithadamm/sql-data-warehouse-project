@@ -16,6 +16,8 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 ---
 ## 📖 Project Overview
 
+<img src="https://github.com/harithadamm/asset-project/blob/main/dataOverview.png " width="400" />
+
 This project involves:
 
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
